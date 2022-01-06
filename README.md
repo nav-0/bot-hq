@@ -1,7 +1,11 @@
 # bot-hq skeleton
 
-A python program \n
-to deploy \n
-and command \n
-bots \n
+A python program
+
+to deploy 
+
+and command 
+
+bots 
+
 via SSH hosts
